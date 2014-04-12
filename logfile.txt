@@ -1,0 +1,5731 @@
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+******* Number of Intro Screen effects loaded,2
+******* Number of effects loaded,3
+Loading game level,assets//data//level1.dat
+Level table size,121
+isPlaying (0, An invalid object handle was used. )
+playSound,No errors.
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,453
+FPS,453
+FPS,453
+FPS,359
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,496
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=gc14_chuck
+Config line,ProgramVersion=v057
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,gc14_chuck
+Version,v057
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+object(weapon, MG)
+object(weapon, 20mm)
+object(weapon, 3inch)
+object(weapon, 6inch)
+object(weapon, flak)
+object(weapon, flak)
+object(weapon, riverboat)
+object(weapon, destroyer)
+object(weapon, cruiser)
+object(weapon, battleship)
+object(weapon, jet1)
+object(weapon, jet2)
+object(weapon, tank1)
+object(weapon, tank2)
+object(weapon, tank3)
+object(weapon, hq)
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Failure loading assets//data//objects.dat
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Failure loading assets//data//objects.dat
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Failure loading assets//data//objects.dat
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Failure loading assets//data//objects.dat
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,371
+FPS,374
+FPS,365
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,368
+FPS,365
+FPS,372
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=0
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exit loading of files
+Exit loading of files
+Reloading sprite and fonts
+FPS,834
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,43
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,359
+FPS,369
+FPS,363
+FPS,363
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,27
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,359
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,367
+FPS,363
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,361
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,352
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+FPS,360
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,01.10.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,04.30.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,05.14.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,05.20.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,02.24.2012
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=1
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Exit loading of files
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,02.24.2012
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,04.11.2014
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,Level1=assets//data//level1.dat
+Config line,Level2=assets//data//level2.dat
+Config line,Level3=assets//data//level3.dat
+Config line,Level4=assets//data//level4.dat
+Config line,Level5=assets//data//level5.dat
+Config line,Level6=assets//data//level6.dat
+Config line,Level7=assets//data//level7.dat
+Config line,Level8=assets//data//level8.dat
+Config line,Level9=assets//data//level9.dat
+Config line,Level10=assets//data//level10.dat
+Config line,ProgramName=generic2D
+Config line,ProgramVersion=v001
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,generic2D
+Version,v001
+Window Loaded and Displayed!
+Reloading sprite and fonts
+DirectX Initialized
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+assets//data//objects.dat (objects file) was loaded successfully!
+FMOD Initialized
+Reading audio data file,assets\data\sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+Reading audio data file,assets//data//sounds.dat
+Audio file loaded: ,assets\sounds\iron-man.mp3
+************************** Audio Files Loaded **************
+
+Entering Main Control Loop
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************

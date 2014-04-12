@@ -1,0 +1,11 @@
+* Add CTextMessenger class to allow comms with user. Includes Update() and Render() methods.
+* Add CChat class to allow chatting with program and user. Includes Update() and Render() methods.
+* Each class should have a Reset() method to reset all variables within the class.  These may be
+  called up in the PlayState activation function.  Keeps Activation method clean.
+* Modify CAudioManager to separate sounds from music.  Select time frames on a track of sound effects.
+* Use virtual memory.
+* Add more fonts to system.
+* Modify RenderModulate... method to become RenderSprite().
+* Watch out for static variables in the class.
+
+  

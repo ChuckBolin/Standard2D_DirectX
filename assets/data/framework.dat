@@ -1,0 +1,9 @@
+//texture, 100, banner.png, title page
+texture, 100, framework.png, support_for_framework
+
+//sprite, 1000, 100, 0, 0, 843, 400, 1, 0, 255, 1, 1, 0, Title
+sprite, 1000, 100, 0, 0, 100, 100, 1, 0, 255, 1, 1, 0, color_tile_100x100
+sprite, 1001, 100, 100, 0, 100, 100, 1, 0, 255, 1, 1, 0, color_tile_100x100
+sprite, 1002, 100, 200, 0, 100, 100, 1, 0, 255, 1, 1, 0, color_tile_100x100
+
+
